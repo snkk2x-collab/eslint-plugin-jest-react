@@ -43,7 +43,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:Codecademy/eslint-plugin-jest-react.git"
+    "url": "git+https://github.com/Codecademy/eslint-plugin-jest-react.git"
   },
   "scripts": {
     "compile": "tsc",
